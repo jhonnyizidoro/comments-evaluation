@@ -1,12 +1,8 @@
 Gentil
-a +
-à moda
-à prova de manequim
 abençoar
 abertamente
 abertura
 abraço
-absolutamente barato
 abunda
 abundam
 abundância
@@ -25,7 +21,6 @@ acolhedor
 acomodativo
 adaptável
 adequado
-adequado para crianças
 admiração
 admirador
 admirados
@@ -78,8 +73,6 @@ alegre
 alegremente
 alegria
 alívio
-alta qualidade
-alto astral
 altruísta
 altruisticamente
 alvorecer
@@ -95,7 +88,6 @@ amenidade
 amigáveis
 amigável
 amigavelmente
-amigo do usuário
 amizade
 amor
 amoroso
@@ -113,7 +105,6 @@ apaixonado
 aplaudir
 apoiando
 apoiante
-Apoio, suporte
 apoteose
 aprecia
 apreciado
@@ -177,9 +168,6 @@ avidamente
 avidez
 ávido
 bacana
-baixo custo
-baixo preço
-baixo risco
 bajular
 barato
 barganha
@@ -189,22 +177,6 @@ belamente
 belas
 beleza
 bem
-bem conectado
-bem conhecido
-bem educado
-bem equilibrada
-bem equilibrado
-bem estabelecido
-bem estar
-bem feito
-bem gerido
-bem iluminado
-bem informado
-bem posicionado
-bem recebido
-bem sucedido
-bem vinda
-bem visto
 bem-comportado
 bem-educado
 bem-intencionado
@@ -219,10 +191,7 @@ benevolência
 benevolente
 benfeitor
 Boa
-boa vontade
-bolo quente
-Bolos quentes
-bom senso
+bom
 bondade
 bonita
 bonito
@@ -238,7 +207,6 @@ brilho
 brincalhão
 brincar
 brisa
-cair o queixo
 calma
 calmante
 calor
@@ -280,18 +248,7 @@ coerência
 coerente
 coeso
 coher
-colheita inesperada
 colorida
-com alma
-com carinho
-com entusiasmo
-com gratidão
-com humor
-com inveja
-com perspicácia
-com propósito
-com razão
-com sucesso
 comemorativo
 comemoro
 cómico
@@ -324,7 +281,6 @@ confiança
 confiante
 confiantemente
 confiar
-Confiar em
 confiável
 confirmado
 confortável
@@ -332,7 +288,6 @@ confortavelmente
 conforto
 congratulatório
 conquistas
-consagrado pelo tempo
 consciente
 consegue
 conseguiu
@@ -344,7 +299,6 @@ construtivo
 consumar
 contentamento
 continuidade
-contra ataque
 contra-ataques
 contrasty
 contribuição
@@ -356,7 +310,6 @@ convincente
 convincentemente
 cooperativamente
 cooperativo
-coração de leão
 coragem
 corajosamente
 corajoso
@@ -369,31 +322,16 @@ cortês
 cortesia
 crédito
 credível
-crescimento mais rápido
-crescimento rápido
 criativo
 criterioso
 crível
-cumpridor da lei
 cumprimento
 cura
 curar
-curar tudo
 curtidas
 custo-beneficio
-dádiva de Deus
 danke
 danken
-de boa vontade
-de bom grado
-de brincadeira
-de cair o queixo
-de forma confiável
-de longa duração
-de luxo
-de primeira classe
-de princípios
-de tirar o fôlego
 decência
 decente
 decisivo
@@ -435,8 +373,6 @@ destino
 destreza
 destro
 determinação
-Deus dado
-Deus envie
 devidamente
 devolveu
 devoto
@@ -444,12 +380,10 @@ difícil
 dignidade
 dignificar
 digno
-digno de nota
 diligência
 diligente
 diligentemente
 dinâmico
-dinheiro de volta
 diplomático
 direito
 direto
@@ -476,10 +410,7 @@ dotativamente
 dote
 dourado
 durável
-é suficiente
 ecenomical
-economia de custo
-economia de energia
 econômico
 edificar
 educado
@@ -507,8 +438,6 @@ elogios
 eloquência
 eloquente
 eloquentemente
-em êxtase
-em segurança
 embelezar
 eminência
 eminente
@@ -537,7 +466,6 @@ endossado
 endossando
 endossar
 endosso
-energia eficiente
 enérgico
 energizar
 enganar
@@ -570,7 +498,6 @@ espertamente
 esperto
 espetacular
 espetacularmente
-espinha dorsal
 espiritual
 espirituoso
 esplendidamente
@@ -580,7 +507,6 @@ espontâneo
 espumante
 estabilidade
 estabilizar
-Estado da arte
 estável
 estelar
 estilizado
@@ -588,8 +514,6 @@ estimado
 estimula
 estimulante
 estimular
-estrela do rock
-estrelas do rock
 estrondo
 estrondoso
 estupefato
@@ -640,7 +564,6 @@ exultar
 fabulosamente
 fabuloso
 fácil
-fácil de usar
 facilidade
 facilita
 facilitado
@@ -648,10 +571,8 @@ facilitando
 facilitar
 facilmente
 factível
-falta de ar
 fama
 famoso
-famoso mundialmente
 fanfarra
 fantasioso
 fantasticamente
@@ -734,7 +655,6 @@ genial
 gênio
 gentilmente
 genuíno
-gilete afiada
 glamouroso
 glória
 glorificar
@@ -751,7 +671,6 @@ graciosamente
 graciosidade
 gracioso
 grande
-grande capacidade
 grandeza
 grandiosidade
 gratidão
@@ -923,7 +842,6 @@ libertado
 libertar
 limpa
 limpador
-limpar \ limpo
 limpeza
 limpo
 linda
@@ -933,8 +851,6 @@ liso
 lisonjeiramente
 lisonjeiro
 livre
-livre de erros
-livre de risco
 lógico
 louvando
 louvável
@@ -961,46 +877,12 @@ magnificência
 magnífico
 magro
 maior
-mais arrumado
-mais barato
-mais bonito
-mais brilhante
-mais chique
-mais claro
-mais conhecido
-mais difícil
-mais espaçoso
-mais esperto
-mais extravagante
-Mais fácil
-mais feliz
-mais fino
-mais firme
-mais forte
-mais fresco
-mais gentil
-mais inteligente
-mais legal
-mais limpo
-mais nerd
-mais nítido
-mais quente
-mais quieto
-Mais rápido
-mais resistente
-mais rico
-mais simples
-mais sortudas
-mais sortudo
-mais suave
-mais vendido
 majestade
 majestoso
 maleável
 mal-humorado
 manejável
 manobrável
-mãos para baixo
 maravilha
 maravilhado
 maravilhas
@@ -1010,9 +892,6 @@ marca
 marcas
 maturidade
 melhor
-melhor desempenho
-melhor que o esperado
-melhor saber
 melhora
 melhorada
 melhorado
@@ -1052,8 +931,6 @@ moralidade
 morto
 motivado
 multiuso
-na moda
-não afetado
 não-violência
 não-violento
 navegável
@@ -1064,13 +941,9 @@ noivando
 notável
 notavelmente
 novidade
-novo em folha
 nutrição
 nutrir
 nutritivo
-O amor é
-o mais rápido
-o suficiente
 oásis
 obra-prima
 obras-primas
@@ -1144,14 +1017,10 @@ poderosamente
 poderoso
 poético
 poetizar
-polegar para cima
 polidez
 polido
-pontos positivos
 pontual
 popular
-por direito
-por sorte
 portador
 portátil
 positivamente
@@ -1162,8 +1031,6 @@ prazer
 precioso
 precisamente
 preciso
-preço baixo
-preço mais baixo
 preeminente
 prefere
 preferencialmente
@@ -1178,8 +1045,6 @@ prêmios
 Prestigiado
 prestígio
 previsão
-primeira classe
-primeiro da classe
 primordial
 principal
 privilegiado
@@ -1228,11 +1093,8 @@ prudentemente
 pungente
 purificar
 puro
-qualidade máxima
 qualificado
 qualificar
-que diz respeito
-que vale a pena
 quente
 querido
 querubim
@@ -1301,12 +1163,10 @@ reputação
 requintadamente
 requintado
 resgatar
-resiliente, elastico, resistente, que suporta tensão
 resistente
 resoluto
 respeitável
 respeito
-respeito próprio
 respeitosamente
 respeitoso
 resplandecente
@@ -1336,9 +1196,7 @@ revolucionário
 revolucionou
 ricamente
 rico
-rico em recursos
 riqueza
-ritmo acelerado
 robusto
 romanticamente
 romântico
@@ -1363,7 +1221,6 @@ satisfeito
 saudação
 saudar
 saudável
-se destacarem
 sedutor
 sedutoramente
 seduzido
@@ -1371,16 +1228,6 @@ seduzir
 seguramente
 seguro
 seletivo
-sem culpa
-sem defeito
-sem dor
-sem dúvida
-sem esforço
-sem falhas
-sem limites
-sem ônus
-sem problemas
-sem restrições
 sensação
 sensacional
 sensacionalmente
@@ -1388,7 +1235,6 @@ sensações
 sensato
 sensivel
 sensível
-Ser mais esperto que
 serenidade
 sereno
 seriedade
@@ -1416,14 +1262,12 @@ sobrevivência
 sobrevivente
 sociável
 sofisticado
-soldados da paz
 solicitamente
 solícito
 solidariedade
 solidário
 solidez
 sólido
-solucionador de problema
 sorridente
 sorrindo
 sorrir
@@ -1439,10 +1283,8 @@ subsidiado
 subsidiar
 substantivo
 substituível
-substituível pelo usuário
 sucedendo
 sucesso
-sucesso de público
 sucessos
 suficiente
 suficientemente
@@ -1455,7 +1297,6 @@ superado
 superando
 superar
 superior
-superior a
 superioridade
 superou
 suporta
@@ -1483,18 +1324,13 @@ tenazmente
 tentado
 tentador
 tentadoramente
-ter sucesso
 ternamente
-terra dos sonhos
 terrifically
 Tesouro
-tirar o fôlego
 tolerável
-Top de linha
 topo
 tops
 torcer
-trabalha duro
 trabalho
 trabalhos
 trabalhou
@@ -1511,9 +1347,7 @@ trivialmente
 troféu
 trompete
 trunfo
-tudo em volta
 Uau
-ultra nítido
 ultrapassado
 ultrapassagens
 ultrapassando

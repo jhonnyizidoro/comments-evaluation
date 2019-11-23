@@ -11,14 +11,19 @@ const sanitize = words => {
 	})
 }
 
-const getMetaData = comments => {
-	const commentsMetaData = []
+const writeCommentsMetaDataToFile = () => {
+
+	const comments = fs.readFileSync('comments.txt', {encoding: 'UTF-8'}).split(/\r?\n/).slice(0, -1)
 	const positiveWords = sanitize(fs.readFileSync('positive-words.txt', {encoding: 'UTF-8'}).split(/\r?\n/))
 	const negativeWords = sanitize(fs.readFileSync('negative-words.txt', {encoding: 'UTF-8'}).split(/\r?\n/))
+	const commentsMetaData = []
 	comments.forEach(comment => {
-		const commentAsArray = comment.split(' ')
+
+		const sanitizedComment = sanitize([comment.split('|')[0]])[0]
+		const commentAsArray = sanitizedComment.split(' ')
 		const positiveWordsMatches = []
 		const negativeWordsMatches = []
+
 		commentAsArray.forEach(commentWord => {
 			if (positiveWords.includes(commentWord)) {
 				positiveWordsMatches.push(commentWord)
@@ -28,16 +33,22 @@ const getMetaData = comments => {
 			}
 		})
 		commentsMetaData.push({
-			comment,
-			letters_count: comment.length,
+			comment: sanitizedComment,
+			letters_count: sanitizedComment.length,
 			word_count: commentAsArray.length,
 			positive_words: positiveWordsMatches,
-			negative_words: negativeWordsMatches
+			negative_words: negativeWordsMatches,
+			positive_words_count: positiveWordsMatches.length,
+			negative_words_count: negativeWordsMatches.length,
+			class: Number(comment.split('|')[1]) > 3 ? 1 : 0
 		})
 	})
-	return commentsMetaData
+
+	fs.writeFileSync('./comments_tr.dat', '')
+	commentsMetaData.forEach(metaData => {
+		fs.appendFile('./comments_tr.dat', `${(metaData.letters_count / 1000).toFixed(3)} ${(metaData.word_count / 100).toFixed(2)} ${(metaData.positive_words_count / 100).toFixed(2)} ${(metaData.negative_words_count / 100).toFixed(2)} ${metaData.class}\r\n`, err => err && console.log(err))
+	})
+
 }
 
-const getComments = () => {
-
-}
+writeCommentsMetaDataToFile()

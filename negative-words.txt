@@ -1,9 +1,4 @@
-2 caras
-2 faces
-à espreita
-A paixão súbita
 abafado
-abaixo do padrão
 abandonado
 abandonar
 abate
@@ -34,7 +29,6 @@ abundante
 abusado
 abusivo
 Abuso
-abuso sexual
 abusos
 acanhado
 acelerador
@@ -59,7 +53,6 @@ acusações
 acusador
 acusadoramente
 acusar
-administrar mal
 admitir
 admoestação
 admoestador
@@ -78,7 +71,6 @@ afligir
 aflitivo
 afogamento
 afronta
-afrontar; insultar
 afundado
 afundamentos
 afundando
@@ -119,12 +111,10 @@ alérgico
 alienação
 alienado
 alienar
-alimentado a colher
 altercação
 altivamente
 altivo
 alto
-alto preço
 alucinação
 alucinar
 amaldiçoado
@@ -252,7 +242,6 @@ assassino
 assediado
 assediar
 assédio
-assédio moral
 assombro
 assustada
 assustado
@@ -368,7 +357,6 @@ bobamente
 bocejar
 boceta
 bocetas
-bode expiatório
 boicote
 bolha
 bolhas
@@ -408,7 +396,6 @@ bullshyt
 burro
 busto
 bustos
-cabeça quente
 cadela
 caducado
 cai
@@ -416,14 +403,12 @@ cãibra
 caído
 caindo
 cair
-cair fora
 caiu
 calafrio
 calamidade
 calamidades
 calamitosamente
 calamitoso
-calcular mal
 calha
 calibre
 calmaria
@@ -492,7 +477,6 @@ charlatão
 chateado
 chato
 cheio
-cheira mal
 cheirando
 cheirava
 cheiro
@@ -531,25 +515,11 @@ coerção
 coercitivo
 colapso
 colérico
-colher de alimentação
 colherada
 cólicas
 colidir
 colidiu
 colisão
-com baixa classificação
-com ciumes
-com desagrado
-com desdém
-com inveja
-com licença
-com medo
-com nojo
-com pena
-com remorso
-com risco de vida
-com saudade
-com tenacidade
 combativo
 combustão
 comichão
@@ -563,7 +533,6 @@ complacente
 complexo
 complicação
 complicado
-comportar-se mal
 comprometer
 compulsão
 compulsivo
@@ -637,7 +606,6 @@ controverso
 contundente
 contusões
 convulsão
-coração partido
 corajoso
 corroer
 corrompe
@@ -650,7 +618,6 @@ corrupto
 corruptor
 cortando
 cortar
-cortina de fumaça
 covarde
 covardemente
 coxo
@@ -680,25 +647,12 @@ cunha
 cuplrit
 curioso
 curto
-curto prazo
 custoso
 cutthroat
-d * mn
 dados
 danadinho
 danificar
 danos
-dar de ombros
-de cabeça quente
-de coração duro
-de coração pesado
-de curta duração
-de luto
-de má vontade
-de maneira dissimulada
-de maneira engraçada
-de pesadelo
-de sobressalto
 deadbeat
 debacle
 debandada
@@ -738,7 +692,6 @@ degradação
 degradante
 degradar
 deitado
-deixar escapar
 delinquência
 delinquente
 delirante
@@ -777,7 +730,6 @@ depressivo
 depressões
 deprimente
 deprimir
-derramamento de sangue
 derramar
 derrota
 derrotado
@@ -835,7 +787,6 @@ Desativado
 desavergonhado
 desavisado
 descamação
-Descanse em paz
 descaradamente
 descarado
 descascado
@@ -998,7 +949,6 @@ destituído
 destruição
 destruído
 destruidor
-Destruidor de corações
 destruir
 destrutivo
 desultório
@@ -1078,7 +1028,6 @@ discrepante
 discriminação
 discriminar
 discriminatório
-discurso retórico
 discutir
 discutível
 dispendioso
@@ -1128,7 +1077,6 @@ divisão
 divisivamente
 divisivo
 dobrado
-doce de açúcar
 dodder
 doença
 doente
@@ -1145,11 +1093,7 @@ dominador
 dominar
 donside
 dor
-dor de cabeça
-dor nas costas
 dores
-dores de cabeça
-dores nas costas
 douchbag
 doutrinação
 doutrinar
@@ -1164,16 +1108,13 @@ drenar
 drenos
 drippy
 Droga
-duas caras
 dumping
 duramente
 dureza
-duro de Matar
 duvida
 dúvida
 duvidosamente
 duvidoso
-é uma merda
 ebulição
 efígie
 egocêntrico
@@ -1183,11 +1124,6 @@ egoisticamente
 egomania
 eliminação
 elogiado
-em apuros
-em conflito
-em falta
-em pânico
-em vão
 emaciado
 emaranhado
 emaranhados
@@ -1223,7 +1159,6 @@ enervante
 enervar
 enfaticamente
 enfático
-enfatizar demais
 enfeitiçar
 enfermo
 enfraquecendo
@@ -1258,7 +1193,6 @@ ensaboado
 ensopado
 entediado
 entediante
-entender mal
 entorpecer
 entorpecido
 entrega
@@ -1273,7 +1207,6 @@ enxerido
 enxerto
 enxofre
 epidemia
-episódio agudo
 equilibrado
 equívoco
 equívocos
@@ -1284,14 +1217,11 @@ errar
 erraticamente
 errático
 erro
-erro de cálculo
 erroneamente
 errôneo
 erros
 erupção
-erupção cutânea
 erupções
-erva daninha
 esbarrar
 esbarrou
 esbelto
@@ -1399,10 +1329,8 @@ exaustões
 excentricidade
 excêntrico
 excessivamente
-excessivamente zeloso
 excessivo
 excesso
-excesso de peso
 exclusão
 excruciante
 execrar
@@ -1440,7 +1368,6 @@ extravagantemente
 extremismo
 extremista
 extremistas
-f ** k
 fabricação
 fabricar
 faca
@@ -1451,27 +1378,17 @@ falácia
 falácias
 falaciosamente
 falacioso
-falar mal
 falha
 falhando
 falhas
 falho
 falhou
 falido
-falsa ação
 falsamente
 falsidade
 falsificar
 falso
 falta
-falta de confiabilidade
-falta de confiança
-falta de consideração
-falta de hospitalidade
-falta de ortodoxia
-falta de remorso
-falta de vergonha
-falta de vontade
 faltava
 faminto
 fanaticamente
@@ -1498,9 +1415,7 @@ fatigado
 fatique
 fatuous
 fawningly
-faz de conta
 faze
-fazer beicinho
 febre
 febres
 febril
@@ -1523,11 +1438,8 @@ ferver
 fétido
 fiasco
 fibra
-ficar boquiaberto
-ficar rico
 ficção
 fictício
-figura de proa
 finagle
 fingimento
 fingir
@@ -1546,7 +1458,6 @@ flakey
 flakieness
 flare
 flerte
-flexão muscular
 flimflam
 Floco
 fobia
@@ -1573,7 +1484,6 @@ fragmentado
 fraqueza
 fraquezas
 fratura
-fraudador de eleição
 fraudar
 fraude
 fraudes
@@ -1623,13 +1533,9 @@ gaguejar
 gaguejou
 galantemente
 galha
-galo silvestre
 ganância
-ganhador de prêmios
 gargalhar
 gasto
-gato gordo
-gatos gordos
 gauche
 gawk
 geada
@@ -1638,7 +1544,6 @@ gemido
 genocídio
 gibe
 golpe
-golpe duro
 golpes
 golpistas
 gordinho
@@ -1647,7 +1552,6 @@ gorduroso
 gotejamento
 gotejante
 grade
-grande demais
 granulado
 grato
 grave
@@ -1870,8 +1774,6 @@ incitar
 incivil
 incivilidade
 inclemente
-inclinado para a esquerda
-inclinado para o inferno
 incobrável
 incoerência
 incoerente
@@ -1951,7 +1853,6 @@ indignação
 indignado
 indignidade
 indigno
-indigno de confiança
 indiscernível
 indisciplinado
 indiscretamente
@@ -2112,12 +2013,10 @@ insurreição
 insustentável
 intenso
 interessado
-interesse próprio
 interfere
 interferência
 interferir
 intermitente
-interpretar mal
 interromper
 interrompido
 interrupção
@@ -2220,8 +2119,6 @@ isolamento
 isolar
 jateada
 juízes
-julgamento errado
-julgar mal
 jutters
 kaput
 killjoy
@@ -2231,7 +2128,6 @@ lacaio
 lacaios
 laço
 lacônico
-lado Cego
 lama
 lambast
 lambaste
@@ -2249,9 +2145,7 @@ lascivo
 latejante
 latência
 lavado
-lavagem cerebral
 lech
-leitura errada
 lentamente
 lento
 lerdo
@@ -2270,13 +2164,11 @@ limitado
 limite
 limites
 linguado
-linha dura
 litigioso
 lívido
 lixo
 lixões
 lodo
-logado novamente
 longo
 lorn
 lotação
@@ -2295,48 +2187,14 @@ lutas
 luto
 lutou
 luxúria
-má qualidade
 macabro
 maçante
 machado
 machucado
 machucando
-madeira de volta
 mafioso
 magro
-mais alto
-mais assustador
-mais barulhento
-mais caro
-mais cruel
-Mais devagar
-mais escuro
-mais estranho
-mais estreito
-mais estúpido
-mais feio
-mais fraco
-mais grosso
-mais lento
-mais louco
-mais obscuro
-mais pobre
 mal
-mal agradecido
-mal concebido
-mal definido
-mal educado
-mal entendido
-mal formado
-mal humorado
-mal informado
-mal interpretado
-mal ordenado
-mal orientado
-mal pago
-mal planejado
-mal sucedido
-mal usado
 malcheiroso
 maldade
 maldição
@@ -2379,25 +2237,19 @@ manipulador
 manipuladores
 manipular
 manobra
-mão pesada
 mar
 marginal
 marginalmente
 marionetes
 martírio
 martírio-procurando
-mas provocativa
 masmorra
 masmorras
 massacre
 massacres
 mata
-matança de emprego
 matando
 mate
-mau comportamento
-mau uso
-maus tratos
 maus-tratos
 mawkish
 mawkishly
@@ -2414,12 +2266,9 @@ melindroso
 melodramaticamente
 melodramático
 mendigo
-menos conhecido
-menos desenvolvido
 menosprezado
 Menosprezando
 menosprezar
-mente fraca
 mentir
 mentira
 mentiras
@@ -2466,7 +2315,6 @@ monstruosamente
 monstruosidade
 monstruosidades
 monstruoso
-montanha russa
 mope
 morbidamente
 mórbido
@@ -2480,7 +2328,6 @@ morno
 morre
 morrendo
 morrer
-morrer de fome
 morreu
 mortal
 mortalha
@@ -2490,7 +2337,6 @@ mortificado
 mortificante
 mortificar
 morto
-Movendo devagar
 mudslinger
 mudslinging
 mulherengo
@@ -2502,31 +2348,6 @@ murchar
 musaranho
 mutilado
 mutilante
-não autêntico
-não civilizado
-não comprovado
-não confiável
-não confirmado
-não cooperativo
-não dissolvido
-não especificado
-não essencial
-não financiado
-não gosta
-não gostar
-não gostei
-não lucrativo
-não natural
-não observado
-não ortodoxo
-não qualificado
-não realizado
-não resolvido
-não responsivo
-não sofisticado
-não suportado
-não testado
-não visível
 não-competitivo
 narcótico
 naufrágio
@@ -2628,7 +2449,6 @@ ofensor
 oficioso
 ofuscante
 ofuscar
-olhar severo
 omissão
 omitir
 onerosamente
@@ -2655,7 +2475,6 @@ ousadia
 oxidado
 pá
 pagão
-pago em excesso
 palha
 palhaço
 pálido
@@ -2668,7 +2487,6 @@ panders
 panela
 panes
 pânico
-para trás
 parado
 paradoxal
 paradoxalmente
@@ -2696,7 +2514,6 @@ pateticamente
 patético
 patife
 patifes
-pato coxo
 patrocinar
 pau
 pausa
@@ -2719,7 +2536,6 @@ pendurado
 penetrante
 pequeno
 perda
-perda de cabelo
 perdas
 perde
 perdedores
@@ -2756,10 +2572,8 @@ pervertidos
 pesadelo
 pesado
 pesar
-peso morto
 pessimismo
 pessimista
-pessoa ocupada
 pestilento
 petrificado
 petrificar
@@ -2779,7 +2593,6 @@ piquete
 piquetes
 piranha
 pirralho
-pisar fundo
 pitada
 plagiar
 plasticky
@@ -2794,8 +2607,6 @@ podridão
 poeira
 poeirento
 polarização
-polegar para baixo
-polegares para baixo
 polemizar
 poluição
 poluidor
@@ -2803,18 +2614,12 @@ poluidores
 poluir
 pomposo
 popa
-pôr em perigo
 porcaria
 porco
 porcos
 Porra
 portos
 postura
-pouco atraente
-pouco claro
-pouco conhecido
-pouco convincente
-pouco saudável
 praga
 pragas
 prate
@@ -2881,9 +2686,6 @@ proibir
 proibitivamente
 proibitivo
 prolongado
-pronunciado incorretamente
-pronunciamentos errados
-pronunciar mal
 propaganda
 propagandizar
 proprietário
@@ -2913,7 +2715,6 @@ punível
 punk
 qualm
 quebra
-quebra de lei
 quebrado
 quebrar
 quebrou
@@ -3061,8 +2862,6 @@ retrair
 retratar
 reverter
 revés
-revestido de açúcar
-revestimento de açúcar
 reviravolta
 revogar
 revolta
@@ -3110,7 +2909,6 @@ ruptura
 sabotar
 saciar
 saco
-sacos de terra
 sacrificado
 salienta
 sanctimonious
@@ -3134,51 +2932,16 @@ seca
 secreto
 sede
 sedentário
-seduzir; enganar; iludir
-segunda classe
-segundo nível
 seiva
 selvagem
 selvagens
 selvageria
-sem amor
-sem brilho
-sem cérebro
-sem consideração
-sem coração
-sem criatividade
-sem dinheiro
-sem entusiasmo
-sem escrúpulos
-sem esperança
-sem espírito
-Sem fé
-sem graça
-sem importância
-sem intercorrências
-sem lei
-sem licença
-sem noção
-sem pensar
-sem querer
-sem remorso
-sem rumo
-sem seguro
-sem sentido
-sem significado
-sem sucesso
-sem suporte
-sem utilidade
-sem valor
-sem vida
-sem vontade
 semi-retardado
 senhorita
 senil
 senões
 sensacionalizar
 sensual
-sente falta
 separações
 separador
 separar
@@ -3190,13 +2953,11 @@ servil
 severamente
 severidade
 severo
-sh * t
 shimmy
 shirker
 sibilando
 sibilou
 silvo
-simplificação excessiva
 simplificado
 simplificar
 simplista
@@ -3211,7 +2972,6 @@ sinistro
 sintoma
 sintomas
 sitiar
-situação difícil
 skulk
 slogged
 slogging
@@ -3348,7 +3108,6 @@ terrivelmente
 terror
 terror-genic
 terrorismo
-Tesouro escondido
 tetchy
 timidamente
 timidez
@@ -3386,7 +3145,6 @@ touro****
 tout
 touts
 tóxico
-trabalho fatigante
 traficante
 tragédia
 tragicamente
@@ -3443,7 +3201,6 @@ turbulento
 turvação
 turvar
 ugh
-última vala
 ultimato
 ultimatos
 ultra-hardline
@@ -3482,10 +3239,8 @@ vazando
 vazio
 veemente
 veementemente
-Veja o
 velhote
 vencido
-vendedor ambulante
 veneno
 venenosamente
 venenoso
