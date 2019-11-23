@@ -46,7 +46,7 @@ const writeCommentsMetaDataToFile = () => {
 
 	fs.writeFileSync('./comments_tr.dat', '')
 	commentsMetaData.forEach(metaData => {
-		fs.appendFile('./comments_tr.dat', `${(metaData.letters_count / 1000).toFixed(3)} ${(metaData.word_count / 100).toFixed(2)} ${(metaData.positive_words_count / 100).toFixed(2)} ${(metaData.negative_words_count / 100).toFixed(2)} ${metaData.class}\r\n`, err => err && console.log(err))
+		fs.appendFile('./comments_tr.dat', `${metaData.letters_count} ${metaData.word_count} ${metaData.positive_words_count} ${metaData.negative_words_count} ${metaData.class}\r\n`, err => err && console.log(err))
 	})
 
 }
